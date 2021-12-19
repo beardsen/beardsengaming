@@ -3,7 +3,7 @@ title: "Recap From Missing Videos"
 date: 2021-12-19T19:14:12Z
 featured_image: ""
 tags: ["session recap","news"]
-draft: true
+draft: false
 ---
 
 Yes, I know… we've missed a lot of the recordings.  There's a lot of missing gameplay between our last stream and newest recording.  I've had a LOT of technical issues recording and streaming lately, and I blame it mainly on my horrible internet connection - which will be resolved soon.  I was finally able to work out an alternative recording method using different software that didn't require as much available bandwidth.  But then I kept having other, non-internet related, issues.  Some of them were technical, some of them were "me" issues (like not unmuting the audio inputs before recording).  I was FINALLY able to get everything fixed up and we do have a good recording for our latest session on December 2.
