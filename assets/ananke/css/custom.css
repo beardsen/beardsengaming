@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'vendura-semibold-demo';
+    src: url('/fonts/vendura-semibold-demo-webfont.woff2') format('woff2'),
+         url('/fonts/vendura-semibold-demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'modesto_condensedlight';
+    src: url('/fonts/modestocond-light-webfont.woff2') format('woff2'),
+         url('/fonts/modestocond-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.vendura {
+    font-family: 'vendura-semibold-demo', vendura,
+      sans-serif;
+  }
+
+.modesto {
+    font-family: 'modesto_condensedlight', modesto
+      sans-serif;
+}
